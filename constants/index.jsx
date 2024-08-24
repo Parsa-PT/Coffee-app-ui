@@ -1,0 +1,22 @@
+export const COFFEE = [
+    {
+        title:'Cappuccino',
+        id:1
+    },
+    {
+        title:'Latte',
+        id:2
+    },
+    {
+        title:'Espresso',
+        id:3
+    },
+    {
+        title:'Mocha',
+        id:4
+    },
+    {
+        title:'Americano',
+        id:5
+    },
+]
