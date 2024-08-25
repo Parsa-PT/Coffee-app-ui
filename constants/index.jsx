@@ -20,3 +20,37 @@ export const COFFEE = [
         id:5
     },
 ]
+
+
+export const COFFEE_CARD = [
+    {
+        title:'Cappuccino',
+        id:1,
+        price:12.39,
+        pic:require('../assets/images/cup2.png')
+    },
+    {
+        title:'Latte',
+        id:2,
+        price:11.22,
+        pic:require('../assets/images/cup1.png')
+    },
+    {
+        title:'Espresso',
+        id:3,
+        price:8.55,
+        pic:require('../assets/images/cup2.png')
+    },
+    {
+        title:'Mocha',
+        id:4,
+        price:14.39,
+        pic:require('../assets/images/cup5.png')
+    },
+    {
+        title:'Americano',
+        id:5,
+        price:7.39,
+        pic:require('../assets/images/cup2.png')
+    },
+]
