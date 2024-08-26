@@ -7,6 +7,12 @@
    ```bash
    npm install
    ```
+    ```bash
+   npm install expo-haptics
+   ```
+    ```bash
+   npm install react-native-reanimated-carousel
+   ```
 
 2. Start the app
 
